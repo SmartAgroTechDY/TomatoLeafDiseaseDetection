@@ -1,4 +1,5 @@
 # TOMATO LEAF DISEASE DETECTION
+## This project is licensed under the terms of the Apache license 2.0
 
 This project provides a **Tomato Leaf Disease Detection** model using deep learning techniques, specifically based on a **VGG16-like architecture** with custom layers. The model is designed to classify tomato leaves into 10 different categories, including diseases such as Bacterial Spot, Early Blight, Late Blight, and more, as well as healthy leaves.
 
